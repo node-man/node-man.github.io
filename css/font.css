@@ -1,0 +1,79 @@
+/*
+* Source Han Serif KR (본명조)
+ */
+@font-face {
+  font-family: 'Source Han Serif KR';
+  font-style: normal;
+  font-weight: 100;
+  src: url(../font/SourceHanSerifKR-ExtraLight) format('opentype');
+}
+@font-face {
+  font-family: 'Source Han Serif KR';
+  font-style: normal;
+  font-weight: 300;
+  src: url(../font/SourceHanSerifKR-Light) format('opentype');
+}
+@font-face {
+   font-family: 'Source Han Serif KR';
+   font-style: normal;
+   font-weight: 400;
+   src: url(../font/SourceHanSerifKR-Regular) format('opentype');
+ }
+@font-face {
+   font-family: 'Source Han Serif KR';
+   font-style: normal;
+   font-weight: 500;
+   src: url(../font/SourceHanSerifKR-SemiBold) format('opentype');
+ }
+@font-face {
+   font-family: 'Source Han Serif KR';
+   font-style: normal;
+   font-weight: 700;
+   src: url(../font/SourceHanSerifKR-Bold) format('opentype');
+ }
+@font-face {
+   font-family: 'Source Han Serif KR';
+   font-style: normal;
+   font-weight: 900;
+   src: url(../font/SourceHanSerifKR-Heavy) format('opentype');
+ }
+
+ /*
+ * Source Han Sans KR (본고딕)
+  */
+ @font-face {
+   font-family: 'Source Han Sans KR';
+   font-style: normal;
+   font-weight: 100;
+   src: url(../font/SourceHanSansKR-ExtraLight) format('opentype');
+ }
+ @font-face {
+   font-family: 'Source Han Sans KR';
+   font-style: normal;
+   font-weight: 300;
+   src: url(../font/SourceHanSansKR-Light) format('opentype');
+ }
+ @font-face {
+    font-family: 'Source Han Sans KR';
+    font-style: normal;
+    font-weight: 400;
+    src: url(../font/SourceHanSansKR-Regular) format('opentype');
+  }
+ @font-face {
+    font-family: 'Source Han Sans KR';
+    font-style: normal;
+    font-weight: 500;
+    src: url(../font/SourceHanSansKR-SemiBold) format('opentype');
+  }
+ @font-face {
+    font-family: 'Source Han Sans KR';
+    font-style: normal;
+    font-weight: 700;
+    src: url(../font/SourceHanSansKR-Bold) format('opentype');
+  }
+ @font-face {
+    font-family: 'Source Han Sans KR';
+    font-style: normal;
+    font-weight: 900;
+    src: url(../font/SourceHanSansKR-Heavy) format('opentype');
+  }
