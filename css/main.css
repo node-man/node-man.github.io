@@ -47,7 +47,7 @@ header:before {
   top: -50%;
   z-index: 100;
   content: '';
-  height: 250px;
+  height: 380px;
   width: 120%;
   background: #f9f9f9;
   -ms-transform-origin: center center;
